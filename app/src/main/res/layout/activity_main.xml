@@ -28,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/nunito_bold"
-        android:text="Monitory Membantu Anda\n    Mengontrol HP Anak"
+        android:text="Monitory Membantu Anda\n   Mengontrol HP Anak"
         android:textColor="@color/black_87"
         android:textSize="21sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
