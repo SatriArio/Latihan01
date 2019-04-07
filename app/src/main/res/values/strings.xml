@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="Kode">Kode</string>
+    <string name="Nama">Contoh : Budi</string>
+    <string name="Umur">Contoh : 13 Tahun</string>
+    <string name="nama_panggilan_kamu">Nama Panggilan Kamu</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="dengan_menekan_tombol_masuk_berarti_anda_menyetujui_n_ketentuan_pengguna_dan_kebijakan_data_kami">Dengan menekan tombol masuk berarti Anda menyetujui Ketentuan Pengguna dan Kebijakan Data kami</string>
+    <string name="ketikkan_kode_keluarga_yang_ayah_bunda_nmiliki_disini">Ketikkan kode keluarga yang Ayah Bunda  miliki disini</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_kode_keluarga">Belum punya kode keluarga?</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="oke">Oke</string>
+    <string name="beres_sekarang_kamu_nudah_bisa_ngecek_npenggunaan_hp_mu_ntiap_hari_buat_bantu_kamu_nngatur_waktu">Beres! Sekarang kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu  ngatur waktu :)</string>
+    <string name="mulai">Mulai</string>
+    <string name="todo">TODO</string>
+    <string name="dengan_menekan_tombol_masuk_berarti_anda_menyetujui_nketentuan_pengguna_dan_kebijakan_data_kami">Dengan menekan tombol masuk berarti Anda menyetujui Ketentuan Pengguna dan Kebijakan Data kami</string>
+</resources>
